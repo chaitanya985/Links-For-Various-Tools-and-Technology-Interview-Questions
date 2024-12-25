@@ -22,7 +22,6 @@ https://www.geeksforgeeks.org/google-cloud-platform-interview-questions/
 https://www.theknowledgeacademy.com/blog/firebase-interview-questions/
 https://www.geeksforgeeks.org/typescript-interview-questions/
 https://www.digitalsamba.com/blog/webrtc-vs-websocket#:~:text=Potential%20security%20concerns-,Key%20differences%20between%20WebRTC%20and%20WebSocket,and%20real%2Dtime%20chat%20applications.
-Prisma / Sanity / EdgeStore / Linux Commands / Postman / Figma / C++ / CI/CD / AI/ML / Cloud / AI Classroom Series / AWS Summit
 https://www.geeksforgeeks.org/common-interview-questions-and-answers/
 https://www.geeksforgeeks.org/phone-interview-questions/?ref=ml_lbp
 https://www.geeksforgeeks.org/phone-interview-questions/?ref=ml_lbp
